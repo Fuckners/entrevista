@@ -7,7 +7,7 @@ No banco foram criadas duas tabelas:
 - Tabela Users - Onde ficaram guardados todas as informações dos usuários e a chave estrangeira para o avatar (nome, email, senha, avatar_id, data_nascimento, ativo);
 - Tabela Avatar - Onde ficaram as informações da imagem de avatar (nome, path, e data de atualização).
 
-_O arquivo .sql para a criação do banco está <a href="https://github.com/Fuckners/entrevista/tree/main/src/database">aqui.</a>_
+_O arquivo .sql para a criação do banco está <a href="https://github.com/Fuckners/entrevista/tree/main/src/database/criacao_banco_mysql.sql">aqui.</a>_
 
 ### TDD
 Por mais que eu já saiba fazer de cor e salteado projetos que envolvam crud (cadastrar, pesquisar, alterar e deletar), confesso que nesse caso eu acho que seria mais inteligente simplesmente ter ignorado o TDD, considerando que não acho que seja a mais sensata das ideias usar TDD quando você planeja fazer um projeto em duas horas. Mas quando me percebi isso já era tarde demais 😅  
