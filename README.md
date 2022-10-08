@@ -10,7 +10,7 @@ No banco foram criadas duas tabelas:
 _O arquivo .sql para a criação do banco está <a href="https://github.com/Fuckners/entrevista/tree/main/src/database/criacao_banco_mysql.sql">aqui.</a>_
 
 ### TDD
-Por mais que eu já saiba fazer projetos que envolvam crud (cadastrar, pesquisar, alterar e deletar), confesso que nesse caso eu acho que seria mais inteligente simplesmente ter ignorado o TDD, considerando que não é a ideia mais sensata do mundo usar TDD quando você planeja fazer um projeto em duas horas. Mas como o objetivo não era concluir o projeto, mas sim ver até onde eu conseguiria ir, resolvi tentar usar.  
+Por mais que eu já saiba fazer projetos que envolvam crud (cadastrar, pesquisar, alterar e deletar), confesso que eu acho que não é a ideia mais sensata do mundo usar TDD quando você planeja fazer um projeto em duas horas. Mas como o objetivo não era concluir o projeto, mas sim ver até onde eu conseguiria ir, resolvi tentar usar.  
 
 Como ainda não fiz tantos projetos usando TDD, tive bastante dificuldade na parte de descobrir como funcionaria para enviar a imagem na hora de testar o cadastro usando Jest, então as solução mais simples que pensei foi definir uma imagem de perfil padrão como acontece na maioria das redes sociais, exemplo:  
 
